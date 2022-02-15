@@ -13,4 +13,5 @@ You can see status on
 [comment]: <> (![App Screen 1]&#40;/app/src/main/res/drawable/app_2.jpg&#41;)
 
 [comment]: <> (![App Screen 2]&#40;/app/src/main/res/drawable/app_1.jpeg&#41;)
-<img src="./app/src/main/res/drawable/app_2.jpg" alt="App Scren Icon" width="300" height="800"/><img src="./app/src/main/res/drawable/app_2.jpg" alt="App Scren Icon" width="300" height="800"/>
+<img src="./app/src/main/res/drawable/app_2.jpg" alt="App Screen Icon" width="300" height="500"/>
+<img src="./app/src/main/res/drawable/app_1.jpg" alt="App Screen Icon" width="300" height="500"/>
