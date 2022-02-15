@@ -10,6 +10,7 @@ You can see status on
 - Total Deaths
 - Total Recovered
 
-![App Screen 1](/app/src/main/res/drawable/app_2.jpg)
-![App Screen 2](/app/src/main/res/drawable/app_1.jpeg)
-<img src="./app/src/main/res/drawable/app_2.jpg" alt="App Scren Icon" width="400" height="1000"/>
+[comment]: <> (![App Screen 1]&#40;/app/src/main/res/drawable/app_2.jpg&#41;)
+
+[comment]: <> (![App Screen 2]&#40;/app/src/main/res/drawable/app_1.jpeg&#41;)
+<img src="./app/src/main/res/drawable/app_2.jpg" alt="App Scren Icon" width="300" height="800"/><img src="./app/src/main/res/drawable/app_2.jpg" alt="App Scren Icon" width="300" height="800"/>
