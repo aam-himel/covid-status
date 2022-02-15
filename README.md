@@ -12,3 +12,4 @@ You can see status on
 
 ![App Screen 1](/app/src/main/res/drawable/app_2.jpg)
 ![App Screen 2](/app/src/main/res/drawable/app_1.jpeg)
+<img src="./app/src/main/res/drawable/app_2.jpg" alt="App Scren Icon" width="400" height="1000"/>
