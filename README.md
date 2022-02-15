@@ -10,5 +10,5 @@ You can see status on
 - Total Deaths
 - Total Recovered
 
-![App Screen 1](/src/main/res/drawable/app_2.jpg)
-![App Screen 2](/src/main/res/drawable/app_1.jpeg)
+![App Screen 1](/drawable/app_2.jpg)
+![App Screen 2](/drawable/app_1.jpeg)
